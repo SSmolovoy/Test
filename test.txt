@@ -2,8 +2,5 @@ Test 1234
 1235
 3456
 test  commit -a  in histori
-<<<<<<< HEAD
-new commit
-=======
-erro commit
->>>>>>> 0c41c7806f07160d4f32ed792fd9a92f5b5451ac
+
+erro commit 2
